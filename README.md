@@ -18,3 +18,5 @@ Simple website project whereby i have introduced bootstrap 5 .
 
 - clone my repo
     $ cd git clone https://github.com/mungaiDaniel/Bootstrap-Intro.git
+
+checkout sample in [ghpages](https://mungaidaniel.github.io/Bootstrap-Intro/)
